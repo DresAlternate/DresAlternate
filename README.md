@@ -3,7 +3,7 @@
 -  I'm currently learning how to code!
 -  I’m currently learning HTML/CSS/C++
 -  From Texas
--  
+
   
 
 <!---
